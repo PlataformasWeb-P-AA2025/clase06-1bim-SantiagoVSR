@@ -9,7 +9,7 @@ from base_datos import conn
 
 cursor = conn.cursor()
 
-# a través de cursor su puede ejecutar comandos SQL mediante el método
+# a través de cursor su puede ejecutar comandos SQL mediante el métodou
 # execute
 
 # Crear una cadena que almacene la sentencia de ingreso de información
